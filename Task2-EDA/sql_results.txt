@@ -1,0 +1,94 @@
+
+Q1: Top 5 Products by Total Sales
+-------------------------------------------------------------------
+ Rank | Product Name                                    | Total Sales
+------|------------------------------------------------|------------
+  1   | Canon imageCLASS 2200 Advanced Copier           | $61,599
+  2   | Fellowes PB500 Electric Punch Plastic Comb      | $27,453
+  3   | Cisco TelePresence System EX90 Videoconferencing| $22,638
+  4   | HON 5400 Series Task Chairs for Big and Tall    | $21,870
+  5   | GBC DocuBind TL300 Electric Binding System       | $19,823
+
+Note: The Canon copier alone makes more than double the sales of any other single product.
+
+
+Q2: Monthly Sales Trend (2014-01 to 2017-12)
+-------------------------------------------------------------------
+ Total Months: 48 (January 2014 to December 2017)
+
+ Peak Month  : November 2017 = $118,447
+ Lowest Month: February 2014 = $4,519
+
+ Year  | Q1 Sales   | Q2 Sales   | Q3 Sales   | Q4 Sales
+-------|------------|------------|------------|------------
+ 2014  | $40,615    | $52,961    | $73,029    | $97,694
+ 2015  | $44,514    | $62,498    | $71,613    | $107,532
+ 2016  | $42,206    | $64,098    | $94,684    | $131,684
+ 2017  | $66,047    | $82,189    | $116,856   | $185,799
+
+Note: Q4 is always the best quarter. Sales have been climbing every year from 2014 to 2017.
+
+
+Q3: Total Profit by Region
+-------------------------------------------------------------------
+ Rank | Region  | Total Profit
+------|---------|-------------
+  1   | West    | $108,418
+  2   | East    | $91,522
+  3   | South   | $46,749
+  4   | Central | $39,706
+
+Note: West makes nearly 3 times more profit than Central. That's a big gap worth looking into.
+
+
+Q4: Customer Count by Segment
+-------------------------------------------------------------------
+ Segment       | Customer Count
+---------------|---------------
+ Consumer      | 409
+ Corporate     | 236
+ Home Office   | 148
+
+Note: More than half the customers (51.6%) are regular consumers. Corporate is second at 29.8%.
+
+
+Q5: Average Discount by Category
+-------------------------------------------------------------------
+ Category         | Average Discount
+------------------|------------------
+ Furniture        | 17%
+ Office Supplies  | 16%
+ Technology       | 13%
+
+Note: Furniture gets the biggest discounts on average, which might explain why its profit margins are lower.
+
+
+Q6: States with Negative Total Profit
+-------------------------------------------------------------------
+ Rank | State              | Total Profit
+------|--------------------|-------------
+  1   | Texas              | -$25,729
+  2   | Ohio               | -$16,971
+  3   | Pennsylvania       | -$15,559
+  4   | Illinois           | -$12,607
+  5   | North Carolina     | -$7,490
+  6   | Colorado           | -$6,527
+  7   | Tennessee          | -$5,341
+  8   | Arizona            | -$3,427
+  9   | Florida            | -$3,399
+ 10   | Oregon             | -$1,190
+
+Note: Texas is the worst performer at -$25,729 in losses. These 10 states need a pricing and discount review.
+
+
+Q7: Order Count by Shipping Mode
+-------------------------------------------------------------------
+ Ship Mode       | Order Count
+-----------------|------------
+ Standard Class  | 5,968
+ Second Class    | 1,945
+ First Class     | 1,538
+ Same Day        | 543
+
+Note: Most customers (59.7%) go with Standard shipping. Only 5.4% use Same Day.
+
