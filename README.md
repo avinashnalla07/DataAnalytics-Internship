@@ -4,7 +4,7 @@ A 60-day virtual internship project in Data Analytics.
 
 ---
 
-##Intern Details
+## Intern Details
 
 | Field | Details |
 |-------|---------|
@@ -113,8 +113,8 @@ AvinashNalla-DataAnalyst-Internship-Portfolio/
 
 ## Contact
 
-- Name: Avinash Nalla
-- Intern ID: APSPL2632585
-- Organization: ApexPlanet Software Pvt. Ltd.
+- **Name**: Avinash Nalla
+- **Intern ID**: APSPL2632585
+- **Organization**: ApexPlanet Software Pvt. Ltd.
 
 ---
